@@ -1,0 +1,51 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Nomor3",
+            "request": "launch",
+            "mainClass": "Nomor3",
+            "projectName": "Pemrograman_641c2e20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Nomor2",
+            "request": "launch",
+            "mainClass": "Nomor2",
+            "projectName": "Pemrograman_641c2e20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Nomor1",
+            "request": "launch",
+            "mainClass": "Nomor1",
+            "projectName": "Pemrograman_641c2e20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Nomor5",
+            "request": "launch",
+            "mainClass": "Nomor5",
+            "projectName": "Pemrograman_641c2e20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Nomor4",
+            "request": "launch",
+            "mainClass": "Nomor4",
+            "projectName": "Pemrograman_641c2e20"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test2",
+            "request": "launch",
+            "mainClass": "Test2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test"
+        }
+    ]
+}
